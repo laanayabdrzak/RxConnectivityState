@@ -62,8 +62,6 @@ public class MainActivity extends AppCompatActivity {
 ## TODO
 
 * to be pushed soon
-* simplify the subscription 
-* change code to annotation
 
 ## Developed By
  Author: **Abderrazak LAANAYA**
