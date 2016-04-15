@@ -9,7 +9,7 @@ Include the following dependency in your build.gradle file.
         compile 'io.laanayabdrzak.android:rxconnectivitystate:1.0'
     }
 ```
-**Mavern:**
+**Maven:**
 ```
 <dependency>
   <groupId>io.laanayabdrzak.android</groupId>
