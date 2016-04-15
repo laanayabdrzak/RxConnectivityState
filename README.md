@@ -6,7 +6,7 @@ Include the following dependency in your build.gradle file.
 **Gradle:**
 ```Gradle
     dependencies {
-        compile 'com.???'
+        compile 'io.laanayabdrzak.android:rxconnectivitystate:1.0'
     }
 ```
 
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## TODO
 
-* to be pushed soon
+* Wait for confirmation from jCenter
 
 ## Developed By
  Author: **Abderrazak LAANAYA**
