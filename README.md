@@ -67,9 +67,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## TODO
-
-* Wait for confirmation from jCenter
 
 ## Developed By
  Author: **Abderrazak LAANAYA**
