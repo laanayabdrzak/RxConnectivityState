@@ -9,8 +9,16 @@ Include the following dependency in your build.gradle file.
         compile 'io.laanayabdrzak.android:rxconnectivitystate:1.0'
     }
 ```
-
-## V1.0.0
+**Mavern:**
+```
+<dependency>
+  <groupId>io.laanayabdrzak.android</groupId>
+  <artifactId>rxconnectivitystate</artifactId>
+  <version>1.0</version>
+  <type>pom</type>
+</dependency>
+```
+## V1.0
 
 stable version.
 
